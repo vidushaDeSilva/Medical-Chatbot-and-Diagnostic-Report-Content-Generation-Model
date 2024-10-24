@@ -1,7 +1,7 @@
 # Medical Chatbot and Diagnostic Report Content Generation Model
-Created two medical chatbots for a medical diagnosis assistant web application.
-One model was trained to be a medical chatbot to answer questions from the user.
-Other dataset was trained to genreate content diagnostic report to inform the user about the probable condtions.
+Created two LLMs (Large Language Models) for a medical diagnosis assistant web application.
+One LLM was trained to be a medical chatbot to answer questions from the user.
+Other LLM was trained to genreate content diagnostic report to inform the user about the probable condtions.
 Used Google AI Studio to fine tune Gemini 1.0 Pro 001.
 
 Datasets about the following 14 condtions.
@@ -35,6 +35,7 @@ Gemini 1.0 Pro 001 as the model architecture.
 references:
 
 Atelectasis:
+
 https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684
 
 Cardiomegaly (Enlarged Heart):
