@@ -30,52 +30,52 @@ Loss curve for report content generating model
 references:
 
 Atelectasis:
-	•	https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684
+https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684
 
 Cardiomegaly (Enlarged Heart):
-	•	https://www.mayoclinic.org/diseases-conditions/enlarged-heart/symptoms-causes/syc-20355436
+https://www.mayoclinic.org/diseases-conditions/enlarged-heart/symptoms-causes/syc-20355436
 
 Consolidation:
-	•	https://www.healthline.com/health/lung-consolidation#symptoms
-	•	https://radiopaedia.org/articles/pulmonary-infiltrates-1?lang=gb
+https://www.healthline.com/health/lung-consolidation#symptoms
+https://radiopaedia.org/articles/pulmonary-infiltrates-1?lang=gb
 
 Edema (Pulmonary Edema):
-	•	https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009
+https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009
  
 Effusion (Pleural Effusion):
-	•	https://www.webmd.com/lung/pleural-effusion-symptoms-causes-treatments
+https://www.webmd.com/lung/pleural-effusion-symptoms-causes-treatments
 
 Infiltration (Pulmonary Infiltrate):
-	•	https://www.sciencedirect.com/topics/medicine-and-dentistry/pulmonary-infiltrate
+https://www.sciencedirect.com/topics/medicine-and-dentistry/pulmonary-infiltrate
 
 Mass:
-	•	https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620
-	•	https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/signs-symptoms.html
+https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620
+https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/signs-symptoms.html
 
 Pulmonary Nodules:
-	•	https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/nodules
-	•	https://my.clevelandclinic.org/health/diseases/14799-pulmonary-nodules
+https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/nodules
+https://my.clevelandclinic.org/health/diseases/14799-pulmonary-nodules
 
 Pneumonia:
-	•	https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204
-	•	https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/symptoms-and-diagnosis
-	•	https://www.who.int/news-room/fact-sheets/detail/pneumonia
-	•	https://www.cdc.gov/pneumonia/index.html
+https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/symptoms-and-diagnosis
+https://www.who.int/news-room/fact-sheets/detail/pneumonia
+https://www.cdc.gov/pneumonia/index.html
 
 Pneumothorax:
-	•	https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367
-	•	https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumothorax/symptoms-diagnosis-treatment
+https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumothorax/symptoms-diagnosis-treatment
 
 Emphysema:
-	•	https://www.physio-pedia.com/Emphysema
-	•	https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555
-	•	https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema
+https://www.physio-pedia.com/Emphysema
+https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema
 
 Fibrosis (Pulmonary Fibrosis):
-	•	https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690
+https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690
 
 Pleural Thickening:
-	•	https://www.mesothelioma.com/asbestos-cancer/pleural-thickening/
+https://www.mesothelioma.com/asbestos-cancer/pleural-thickening/
 
 Hernia (Lung Hernia):
-	•	https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=22&ContentID=lungHernia
+https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=22&ContentID=lungHernia
