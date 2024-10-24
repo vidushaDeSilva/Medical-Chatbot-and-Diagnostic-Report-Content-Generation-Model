@@ -1,81 +1,86 @@
-Medical Diagnosis Assistant Web Application
+# Medical Chatbot and Diagnostic Report Content Generation Model
+Created two medical chatbots for a medical diagnosis assistant web application.
+One model was trained to be a medical chatbot to answer questions from the user.
+Other dataset was trained to genreate content diagnostic report to inform the user about the probable condtions.
+Used Google AI Studio to fine tune Gemini 1.0 Pro 001.
 
-This project consists of two distinct models designed to assist in medical diagnosis via a web application:
+Datasets about the following 14 condtions.
+1. Atelectasis
+2. Cardiomegaly
+3. Effusion
+4. Infiltration
+5. Lung Mass
+6. Lung Nodule
+7. Pneumonia
+8. Pneumothorax
+9. Consolidation
+10. Edema
+11. Emphysema
+12. Fibrosis
+13. Pleural Thickening
+14. Hernia
+was created from scratch.
 
-	1.	Medical Chatbot Model: Trained to interact with users by answering medical questions related to various lung and heart conditions.
-	2.	Diagnostic Report Content Generation Model: Trained to generate detailed diagnostic reports based on probable medical conditions, helping users understand their health status.
+Loss curve for medical chatbot model
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/4275a65b-880e-454e-93d2-fe128e5c4e7b">
 
-Models
-
-1. Medical Chatbot Model
-
-	•	Purpose: To answer user inquiries about medical conditions.
-	•	Dataset: Custom-built dataset focusing on medical conditions affecting the lungs and heart.
-	•	Training Platform: Google AI Studio (Gemini 1.0 Pro 001).
-
-2. Diagnostic Report Content Generation Model
-
-	•	Purpose: To generate medical reports that summarize and explain possible health conditions based on user inputs.
-	•	Dataset: Designed from scratch, focusing on generating human-readable reports for 14 medical conditions.
-	•	Training Platform: Google AI Studio (Gemini 1.0 Pro 001).
-
-Medical Conditions Covered
-
-The models are trained to provide information and generate reports for the following 14 conditions:
-
-	1.	Atelectasis
-Learn More
-	2.	Cardiomegaly (Enlarged Heart)
-Learn More
-	3.	Effusion (Pleural Effusion)
-Learn More
-	4.	Infiltration (Pulmonary Infiltrate)
-Learn More
-	5.	Lung Mass
-Learn More
-Learn More
-	6.	Lung Nodule
-Learn More
-Learn More
-	7.	Pneumonia
-Learn More
-Learn More
-Learn More
-Learn More
-	8.	Pneumothorax
-Learn More
-Learn More
-	9.	Consolidation
-Learn More
-Learn More
-	10.	Pulmonary Edema
-Learn More
-	11.	Emphysema
-Learn More
-Learn More
-Learn More
-	12.	Fibrosis (Pulmonary Fibrosis)
-Learn More
-	13.	Pleural Thickening
-Learn More
-	14.	Hernia (Lung Hernia)
-Learn More
-
-Model Performance
-
-Loss Curves:
-
-	•	Medical Chatbot Model:
-
-	•	Diagnostic Report Content Model:
+Loss curve for report content generating model
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/63756fc4-5d4c-4f8f-a038-c459585eaaa7">
 
 Tools Used:
 
-	•	Google AI Studio for model training and fine-tuning.
-	•	Gemini 1.0 Pro 001 as the model architecture.
+Google AI Studio for model training and fine-tuning.
+Gemini 1.0 Pro 001 as the model architecture.
+ 
+references:
 
-Datasets:
+Atelectasis:
+https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684
 
-The datasets for each of the 14 conditions were built from scratch, containing curated medical information to ensure accuracy and reliability in both user interactions and generated reports.
+Cardiomegaly (Enlarged Heart):
+https://www.mayoclinic.org/diseases-conditions/enlarged-heart/symptoms-causes/syc-20355436
 
-This README provides an overview of your project, the conditions covered, the models used, and the references included.
+Consolidation:
+https://www.healthline.com/health/lung-consolidation#symptoms
+https://radiopaedia.org/articles/pulmonary-infiltrates-1?lang=gb
+
+Edema (Pulmonary Edema):
+https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009
+ 
+Effusion (Pleural Effusion):
+https://www.webmd.com/lung/pleural-effusion-symptoms-causes-treatments
+
+Infiltration (Pulmonary Infiltrate):
+https://www.sciencedirect.com/topics/medicine-and-dentistry/pulmonary-infiltrate
+
+Mass:
+https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620
+https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/signs-symptoms.html
+
+Pulmonary Nodules:
+https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/nodules
+https://my.clevelandclinic.org/health/diseases/14799-pulmonary-nodules
+
+Pneumonia:
+https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/symptoms-and-diagnosis
+https://www.who.int/news-room/fact-sheets/detail/pneumonia
+https://www.cdc.gov/pneumonia/index.html
+
+Pneumothorax:
+https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumothorax/symptoms-diagnosis-treatment
+
+Emphysema:
+https://www.physio-pedia.com/Emphysema
+https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555
+https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema
+
+Fibrosis (Pulmonary Fibrosis):
+https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690
+
+Pleural Thickening:
+https://www.mesothelioma.com/asbestos-cancer/pleural-thickening/
+
+Hernia (Lung Hernia):
+https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=22&ContentID=lungHernia
