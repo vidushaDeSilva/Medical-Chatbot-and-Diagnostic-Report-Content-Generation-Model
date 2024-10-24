@@ -4,7 +4,7 @@ One LLM was trained to be a medical chatbot to answer questions from the user.
 Other LLM was trained to genreate content diagnostic report to inform the user about the probable condtions.
 Used Google AI Studio to fine tune Gemini 1.0 Pro 001.
 
-Datasets about the following 14 condtions.
+Datasets about the following 14 condtions,
 1. Atelectasis
 2. Cardiomegaly
 3. Effusion
@@ -27,12 +27,12 @@ Loss curve for medical chatbot model
 Loss curve for report content generating model
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/63756fc4-5d4c-4f8f-a038-c459585eaaa7">
 
-Tools Used:
+**Tools Used:**
 
 Google AI Studio for model training and fine-tuning.
 Gemini 1.0 Pro 001 as the model architecture.
  
-references:
+**references:**
 
 Atelectasis:
 
