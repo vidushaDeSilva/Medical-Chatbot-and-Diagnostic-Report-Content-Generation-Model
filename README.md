@@ -21,6 +21,10 @@ Datasets about the following 14 condtions.
 14. Hernia
 was created from scratch.
 
+Loss curve for medical chatbot model
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/4275a65b-880e-454e-93d2-fe128e5c4e7b">
+
+Loss curve for report content generating model
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/63756fc4-5d4c-4f8f-a038-c459585eaaa7">
 
 references:
