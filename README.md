@@ -48,6 +48,7 @@ https://www.mayoclinic.org/diseases-conditions/enlarged-heart/symptoms-causes/sy
 Consolidation:
 
 https://www.healthline.com/health/lung-consolidation#symptoms
+
 https://radiopaedia.org/articles/pulmonary-infiltrates-1?lang=gb
 
 Edema (Pulmonary Edema):
@@ -65,29 +66,37 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/pulmonary-infiltrate
 Mass:
 
 https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620
+
 https://www.cancer.org/cancer/types/lung-cancer/detection-diagnosis-staging/signs-symptoms.html
 
 Pulmonary Nodules:
 
 https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease/nodules
+
 https://my.clevelandclinic.org/health/diseases/14799-pulmonary-nodules
 
 Pneumonia:
 
 https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204
+
 https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/symptoms-and-diagnosis
+
 https://www.who.int/news-room/fact-sheets/detail/pneumonia
+
 https://www.cdc.gov/pneumonia/index.html
 
 Pneumothorax:
 
 https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367
+
 https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumothorax/symptoms-diagnosis-treatment
 
 Emphysema:
 
 https://www.physio-pedia.com/Emphysema
+
 https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555
+
 https://www.lung.org/lung-health-diseases/lung-disease-lookup/emphysema
 
 Fibrosis (Pulmonary Fibrosis):
