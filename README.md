@@ -22,10 +22,13 @@ Datasets about the following 14 condtions,
 was created from scratch.
 
 Loss curve for medical chatbot model
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/4275a65b-880e-454e-93d2-fe128e5c4e7b">
+
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/660b342a-b95c-48d9-84d4-07180d27c79d">
+
 
 Loss curve for report content generating model
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/63756fc4-5d4c-4f8f-a038-c459585eaaa7">
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/33fddfbb-83df-440f-9e71-26874888a9a3">
+
 
 **Tools Used:**
 
